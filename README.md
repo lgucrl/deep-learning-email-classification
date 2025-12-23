@@ -12,7 +12,7 @@ The dataset is a labeled text corpus containing **>5,000 emails** and the follow
 - `label`: string class (`ham` / `spam`)
 - `label_num`: numeric class (`0` = ham, `1` = spam)
 
-Class distribution is **imbalanced (~71% ham and ~29% spam)**, which motivates specific choices in modeling and evaluation.
+Class distribution is **imbalanced (~71% ham and ~29% spam)**, which requires specific choices in modeling and evaluation.
 
 ---
 
