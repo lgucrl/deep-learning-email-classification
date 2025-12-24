@@ -1,6 +1,6 @@
 # Machine / Deep Learning classification and NLP analysis of emails
 
-This project builds an end-to-end pipeline to **classify emails as SPAM vs. HAM (non-spam)** and then perform detailed **NLP analyses** on the resulting groups. In addition to supervised classification, it explores **the main topics of SPAM emails**, **the differences/similarities of SPAM topics**, and **the organizations mentioned in non-spam messages**.
+This project builds an end-to-end pipeline to **classify emails as SPAM vs. HAM (non-spam)** and then perform detailed **NLP analyses** on the resulting groups. In addition to supervised classification, it explores **the main topics of SPAM emails**, **the differences/similarities of SPAM topics**, and **the organizations mentioned in non-spam messages**. The full project is contained in the [`email_classification_ml_dl.ipynb`](https://github.com/lgucrl/deep-learning-email-classification/blob/main/email_classification_ml_dl.ipynb) notebook.
 
 ---
 
